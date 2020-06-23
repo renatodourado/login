@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    min-height: 100vh;
+}
+
+.area {
+    width: 100%;
+    max-width: 350px;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.logo {
+    width: 200px;
+    height: auto;
+}
+
+h3 {
+    font-family: sans-serif;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.remember {
+    padding-top: 15px;
+}
+
+.bottom {
+    padding-top: 20px;
+    color: #999999;
+}
